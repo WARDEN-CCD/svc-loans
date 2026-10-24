@@ -1,0 +1,13 @@
+# Backstage-compatible catalog entry (ADR-017).
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: svc-loans
+  description: Warden service loans
+  annotations:
+    github.com/project-slug: WARDEN-CCD/svc-loans
+spec:
+  type: service
+  lifecycle: experimental
+  owner: warden-maintainers
+  system: warden
