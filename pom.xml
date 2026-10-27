@@ -13,7 +13,7 @@
 
   <groupId>dev.warden</groupId>
   <artifactId>svc-loans</artifactId>
-  <version>0.1.22</version>
+  <version>0.1.23</version>
   <name>svc-loans</name>
   <description>Warden service loans (owner: warden-maintainers)</description>
 
